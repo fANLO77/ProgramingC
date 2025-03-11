@@ -14,4 +14,5 @@ void BubbleSort (int A[], int n) {
 int main (){
     int A[] = {4,0};
     BubbleSort(A,3);
+    printf("Hello Git\n");
 }
